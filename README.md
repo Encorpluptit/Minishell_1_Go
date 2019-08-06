@@ -27,19 +27,3 @@ At the end of the game (when all the ships of a player have been hit), you must 
 
 
 
-
-
-
-## Results:
-
-### 100.00% functional :
-
-![Nao Marvin Results](/Project/Results_NAVY.png)
-
-100.00% 01 - Basic signal (2 tests)
-
-100.00% 02 - Game (8 tests)
-
-100.00% 03 - Protocol (4 tests)
-
-100.00% 04 - Rigor (8 tests)
