@@ -1,29 +1,10 @@
 # Minishell_1_Go
 Minishell 1 In Go
 
-Experience in Go : started 04/08/19.
+Experience in Go : None.
 
 ## The project
 
-[Project subject.](/Project/B-PSU-200_navy.pdf)
+Just a small Minishell (Epitech project) in Go.
 
-You all know the very famous Battleship game.
-
-Well, I hope so. You must code a terminal version of this game.
-
-The two players are ONLY allowed to comunicate using the signals SIGUSER1 and SIGUSER2.
-
-The map size is 8x8. On each turn, you must display yourpositions, and then your enemy’s positions.
-
-At the end of the game (when all the ships of a player have been hit), you must display whether “I won” (and return 0) or “Enemy won” (and return 1).
-
-
-
-## Example
-
-//![Game Example](/Project/Screen_Capture.txt)
-
-![Game Example](/Project/Game_Example.png)
-
-
-
+Made with golang tour for learning Go.
